@@ -18,28 +18,36 @@ lazos para encontrar al final todas las corrientes de lazo. A partir de las corr
 de lazo es posible encontrar todas las corrientes de rama. El número de lazos que
 se pueden plantear en un circuito puede ser muy grande, pero lo importante es que
 el sistema de ecuaciones represente un conjunto mínimo de lazos independientes. 
-3.3. ANÁLISIS POR MALLAS
-Antonio José Salazar Gómez – Universidad de los Andes 37
+
 Este conjunto mínimo es cualquiera en el cual todos los elementos (ramas) hayan
 sido tenidos en cuenta en al menos una malla. Las otras posibles mallas serán
 entonces redundantes. Aquí también el número de incógnitas (corrientes de lazo)
 debe ser igual al número de ecuaciones (una por malla del conjunto mínimo).
 De acuerdo al tipo de circuito y la forma en que se seleccionen las mallas se
 pueden tener distintas posibilidades de conexión de las fuentes:
+
 • Fuentes de corriente controladas
+
 • Fuentes de voltaje independientes
+
 • Fuentes de voltaje controladas
+
 • Fuentes de corriente independientes no compartidas por varias mallas
+
 • Fuentes de corriente independientes compartidas por varias mallas
+
 Según lo anterior hay varias maneras de resolver un circuito por el método de
 mallas.
 El método que llamaremos general aplica a los casos de circuitos con fuentes de
 voltaje independientes y fuentes de corriente independientes no compartidas por
 varias mallas. Este método NO aplica a los circuitos que tienen:
+
 1. Fuentes de corriente independientes compartidas por varias mallas (se
 usa el método de supermalla)
+
 2. fuentes controladas de corriente o voltaje (se deben escribir las
 ecuaciones de dependencia de la variable controlada y controladora)
+
 Si el circuito solo tiene fuentes de voltaje independientes entonces se aplica el
 método general por el sistema llamado de inspección.
 El número mínimo de lazos independientes que hay que definir para tener un
