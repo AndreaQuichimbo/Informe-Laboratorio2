@@ -77,7 +77,22 @@ por la siguiente relación:
 
 # 4 EXPLICACIÓN DEL PROCEDIMIENTO
 
-**2.5. PROCEDIMIENTO**
+**2.5 PROCEDIMIENTO**
+
+ANÁLISIS MATEMÁTICO
+
+![circuito2](https://user-images.githubusercontent.com/84587172/121821823-1b7cf480-cc61-11eb-9d58-ab4d94c63a3e.png)
+
+Para resolver el siguiente problema aplicaremos los siguientes pasos:
+
+•	Identificamos las mallas y asignamos el sentido de las corrientes presentes en la mallas (sentido horario)
+
+•	Finalmente calcularemos el valor de cada corriente presente en las mallas mediante la ley de voltajes de Kirchhoff con el fin de obtener las ecuaciones necesarias
+
+![m1](https://user-images.githubusercontent.com/84587172/121821846-4404ee80-cc61-11eb-9939-02e2406dd514.png)
+
+![m3](https://user-images.githubusercontent.com/84587172/121821861-5e3ecc80-cc61-11eb-9680-2766ee24b4be.png)
+
 
 **2.5.1. Implemente el circuito que se presenta en la figura 2.1.**
 
