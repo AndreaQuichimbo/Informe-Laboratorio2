@@ -1,6 +1,6 @@
 # InformeLaboratorio2
 
-# OBJETIVOS
+# 1 OBJETIVOS
 
 **2.1. OBJETIVO DE LA PRÁCTICA**
 
@@ -18,13 +18,24 @@ función de corrientes.
 Una malla es una trayectoria cerrada que no encierra dentro de sí a ningún elemento del
 circuito.
 
-# MARCO TEÓRICO
+# 2 MARCO TEÓRICO
 
 ![image](https://user-images.githubusercontent.com/84430867/121817035-984da580-cc44-11eb-857b-fa04017c0925.png)
 
-# MATERIAL Y EQUIPO REQUERIDO
+# 3 MATERIAL Y EQUIPO REQUERIDO
+|**CANTIDAD**|**MATERIAL O EQUIPO** |
+|    :---:   |       :---:          | 
+|      1     | Fuente de Voltaje de C.D. |
+|      1     | Multímetro Digital |
+|      1     | Multímetro Digital |
+|      1     | Resistor de 390 Ω |
+|      1     | Resistor de 1 kΩ |
+|      1     | Resistor de 1.2 kΩ |
+|      1     | Resistor de 2.2 kΩ |
+|      1     | Protoboard |
 
-# EXPLICACIÓN DEL PROCEDIMIENTO
+
+# 4 EXPLICACIÓN DEL PROCEDIMIENTO
 
 **2.5. PROCEDIMIENTO**
 
@@ -36,8 +47,8 @@ circuito.
 
 **2.5.4. Compare los valores de la tabla 2.1 y realice sus conclusiones.**
 
-# VIDEO
+# 5 VIDEO
 
-# CONCLUSIONES
+# 6 CONCLUSIONES
 
-# BIBLIOGRAFÍA
+# 7 BIBLIOGRAFÍA
