@@ -23,6 +23,9 @@ circuito.
 ![image](https://user-images.githubusercontent.com/84430867/121817035-984da580-cc44-11eb-857b-fa04017c0925.png)
 
 # 3 MATERIAL Y EQUIPO REQUERIDO
+
+<div align="center">
+     
 |**CANTIDAD**|**MATERIAL O EQUIPO** |
 |    :---:   |       :---:          | 
 |      1     | Fuente de Voltaje de C.D. |
@@ -34,6 +37,7 @@ circuito.
 |      1     | Resistor de 2.2 kΩ |
 |      1     | Protoboard |
 
+</div>
 
 # 4 EXPLICACIÓN DEL PROCEDIMIENTO
 
