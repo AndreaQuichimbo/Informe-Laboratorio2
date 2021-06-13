@@ -1,6 +1,6 @@
 # InformeLaboratorio2
 
-#OBJETIVOS
+# OBJETIVOS
 
 **2.1. OBJETIVO DE LA PRÁCTICA**
 
