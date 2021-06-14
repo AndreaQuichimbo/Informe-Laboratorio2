@@ -2,7 +2,16 @@
 
 # 1 OBJETIVOS
 
+Calcular cada corriente presente en el circuito mostrado mediante el método de análisis de mallas
+
 **2.1. OBJETIVO DE LA PRÁCTICA**
+
+*Comprender la aplicación de la ley de voltajes de Kirchhoff en circuitos mixtos .
+
+*Verificar analitica y experimentalmente los valores de las corrientes indicadas 
+
+*Comparar los resultados obtenidos  en los calculos teoricos y en los simuladores  y analizar si margen de error.
+
 
 Comprobar experimentalmente el Análisis de Mallas.
 
