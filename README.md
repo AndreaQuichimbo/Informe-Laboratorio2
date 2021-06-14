@@ -141,8 +141,8 @@ Para resolver el siguiente problema aplicaremos los siguientes pasos:
 ![error1](https://user-images.githubusercontent.com/84587172/121970431-26f11e00-cd3c-11eb-8ea1-31a954b2ab81.png)
 
 
-# 5 VIDE
+# 5 VIDEO 
 
-# 6 CONCLUSIONES
+# 6 CONCLUSIONES 
 
 # 7 BIBLIOGRAFÍA
