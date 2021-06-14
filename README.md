@@ -100,6 +100,10 @@ Para resolver el siguiente problema aplicaremos los siguientes pasos:
 
 **2.5.3. Simule en el software Multisim, Proteus, o cualquier otro simulador, el circuito de la figura 2.1, obteniendo los valores de las corrientes de malla. Anote los resultados en la tabla 2.1.**
 
+Armando el circuito que se muestra en la figura 2.1
+
+![image](https://user-images.githubusercontent.com/84587293/121962587-8e07d600-cd2e-11eb-8143-c8d3426778ff.png)
+
 **2.5.4. Compare los valores de la tabla 2.1 y realice sus conclusiones.**
 
 # 5 VIDEO
