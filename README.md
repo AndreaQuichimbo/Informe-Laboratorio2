@@ -136,7 +136,12 @@ Para resolver el siguiente problema aplicaremos los siguientes pasos:
 
 **2.5.4. Compare los valores de la tabla 2.1 y realice sus conclusiones.**
 
-# 5 VIDEO
+**Calculo del Error**
+
+![error1](https://user-images.githubusercontent.com/84587172/121970431-26f11e00-cd3c-11eb-8ea1-31a954b2ab81.png)
+
+
+# 5 VIDE
 
 # 6 CONCLUSIONES
 
