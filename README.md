@@ -100,9 +100,30 @@ Para resolver el siguiente problema aplicaremos los siguientes pasos:
 
 **2.5.3. Simule en el software Multisim, Proteus, o cualquier otro simulador, el circuito de la figura 2.1, obteniendo los valores de las corrientes de malla. Anote los resultados en la tabla 2.1.**
 
-Armando el circuito que se muestra en la figura 2.1
+- Armando el circuito que se muestra en la figura 2.1
 
 ![image](https://user-images.githubusercontent.com/84587293/121962587-8e07d600-cd2e-11eb-8143-c8d3426778ff.png)
+
+- Seleccionamos los materiales para proceder armar el circuito.	
+
+![2021-06-14 15_07_46-Circuit design Glorious Uusam _ Tinkercad](https://user-images.githubusercontent.com/84587293/121962795-d626f880-cd2e-11eb-9dc7-295fcfc571bd.png)
+
+- Colocamos las resistencias al Protoboard siguiendo el diagrama espermático dado.
+
+![2021-06-14 15_13_36-Circuit design Terrific Crift-Bigery _ Tinkercad](https://user-images.githubusercontent.com/84587293/121962879-f060d680-cd2e-11eb-9b4f-1c550b53e5e3.png)
+
+- Interconectamos las resistencias en el Protoboard siguiendo el circuito dado.
+
+![2021-06-14 15_27_31-Circuit design Terrific Crift-Bigery _ Tinkercad](https://user-images.githubusercontent.com/84587293/121962926-053d6a00-cd2f-11eb-938a-bb5c20cbc905.png)
+
+- Conectamos el Protoboard a la fuente de alimentación (rojo+,negro -)e iniciamos la simulación con el circuito terminado.
+
+![2021-06-14 16_11_59-Circuit design Terrific Crift-Bigery _ Tinkercad](https://user-images.githubusercontent.com/84587293/121962959-125a5900-cd2f-11eb-97fe-4d7bf6563829.png)
+
+- Obteniendo los valores de las corrientes de malla. 
+
+![2021-06-14 16_33_19-Circuit design Terrific Crift-Bigery _ Tinkercad](https://user-images.githubusercontent.com/84587293/121962993-1dad8480-cd2f-11eb-944b-40d2e1b87678.png)
+
 
 **2.5.4. Compare los valores de la tabla 2.1 y realice sus conclusiones.**
 
