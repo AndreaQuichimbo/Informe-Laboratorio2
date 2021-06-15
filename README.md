@@ -1,5 +1,27 @@
 # InformeLaboratorio2
 
+<div align="center">
+
+# UNIVERSIDAD DE LAS FUERZAS ARMADAS ESPE
+
+Profesor: Ing. Darwin Omar Alulema Flores
+
+AUTORES
+
+Coba Flores Víctor Steve
+
+Quichimbo Simba Andrea Estefania
+
+Titoaña Tigse Leslie Brigitte
+
+NRC
+  
+5416
+
+INGENIERO
+
+Ing. Darwin Omar Alulema Flores
+
 # 1 OBJETIVOS
 
 Calcular cada corriente presente en el circuito mostrado mediante el método de análisis de mallas
