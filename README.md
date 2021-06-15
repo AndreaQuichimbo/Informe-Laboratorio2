@@ -100,7 +100,7 @@ Para resolver el siguiente problema aplicaremos los siguientes pasos:
 
 ![m1](https://user-images.githubusercontent.com/84587172/121821846-4404ee80-cc61-11eb-9939-02e2406dd514.png)
 
-![2](https://user-images.githubusercontent.com/84587172/121977908-a555bc00-cd4c-11eb-9b63-c4c4fa941ade.png)
+![m3](https://user-images.githubusercontent.com/84587172/121821861-5e3ecc80-cc61-11eb-9680-2766ee24b4be.png)
 
 
 **2.5.1. Implemente el circuito que se presenta en la figura 2.1.**
@@ -140,6 +140,13 @@ Para resolver el siguiente problema aplicaremos los siguientes pasos:
 
 ![error1](https://user-images.githubusercontent.com/84587172/121970431-26f11e00-cd3c-11eb-8ea1-31a954b2ab81.png)
 
+**2.5.4. Compare los valores de la tabla 2.1 y realice sus conclusiones.**
+
+|  **MALLA** | **Resultados Analíticos** | **Resulttados Simulados** |     
+|    :---:   |           :---:           |         :---:             |
+|     1      |           11.4            |           11.5            |
+|     2      |           2.84            |           2.85            |
+|     3      |           0.84            |           488             |
 
 # 5 VIDEO 
 
