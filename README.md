@@ -98,9 +98,9 @@ Para resolver el siguiente problema aplicaremos los siguientes pasos:
 
 •	Finalmente calcularemos el valor de cada corriente presente en las mallas mediante la ley de voltajes de Kirchhoff con el fin de obtener las ecuaciones necesarias
 
-![m1](https://user-images.githubusercontent.com/84587172/121821846-4404ee80-cc61-11eb-9939-02e2406dd514.png)
+![M1](https://user-images.githubusercontent.com/84587172/121978046-fb2a6400-cd4c-11eb-9832-125a75f67596.png)
 
-![m3](https://user-images.githubusercontent.com/84587172/121821861-5e3ecc80-cc61-11eb-9680-2766ee24b4be.png)
+![M2](https://user-images.githubusercontent.com/84587172/121978051-fe255480-cd4c-11eb-8edc-ae9b3db9561f.png)
 
 
 **2.5.1. Implemente el circuito que se presenta en la figura 2.1.**
