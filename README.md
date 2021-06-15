@@ -157,18 +157,29 @@ Para resolver el siguiente problema aplicaremos los siguientes pasos:
      
 - Conectamos el Protoboard a la fuente de alimentación (rojo+,negro -)e iniciamos la simulación con el circuito terminado.
 
+<div align="center">
+     
 ![2021-06-14 16_11_59-Circuit design Terrific Crift-Bigery _ Tinkercad](https://user-images.githubusercontent.com/84587293/121962959-125a5900-cd2f-11eb-97fe-4d7bf6563829.png)
+
+</div>
 
 - Obteniendo los valores de las corrientes de malla. 
 
+<div align="center">
+     
 ![2021-06-14 16_33_19-Circuit design Terrific Crift-Bigery _ Tinkercad](https://user-images.githubusercontent.com/84587293/121962993-1dad8480-cd2f-11eb-944b-40d2e1b87678.png)
 
+</div>
 
 **2.5.4. Compare los valores de la tabla 2.1 y realice sus conclusiones.**
 
 **Calculo del Error**
 
+<div align="center">
+
 ![error1](https://user-images.githubusercontent.com/84587172/121970431-26f11e00-cd3c-11eb-8ea1-31a954b2ab81.png)
+
+</div>
 
 **2.5.4. Compare los valores de la tabla 2.1 y realice sus conclusiones.**
 
