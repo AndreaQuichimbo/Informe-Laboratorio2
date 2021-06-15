@@ -90,8 +90,11 @@ por la siguiente relación:
 
 ANÁLISIS MATEMÁTICO
 
+<div align="center">
+     
 ![circuito2](https://user-images.githubusercontent.com/84587172/121821823-1b7cf480-cc61-11eb-9d58-ab4d94c63a3e.png)
 
+</div>
 Para resolver el siguiente problema aplicaremos los siguientes pasos:
 
 •	Identificamos las mallas y asignamos el sentido de las corrientes presentes en la mallas (sentido horario)
@@ -108,11 +111,19 @@ Para resolver el siguiente problema aplicaremos los siguientes pasos:
 
 **2.5.1. Implemente el circuito que se presenta en la figura 2.1.**
 
+<div align="center">
+          
 ![image](https://user-images.githubusercontent.com/84430867/121978207-4fcddf00-cd4d-11eb-9926-5948b1d8a240.png)
+
+</div>
 
 **2.5.2. Mida cada una de las corrientes de malla y anote los resultados en la tabla 2.1.**
 
+<div align="center">
+      
 ![image](https://user-images.githubusercontent.com/84430867/121978138-2f058980-cd4d-11eb-95c1-b337528b2f7f.png)
+
+</div>
 
 **2.5.3. Simule en el software Multisim, Proteus, o cualquier otro simulador, el circuito de la figura 2.1, obteniendo los valores de las corrientes de malla. Anote los resultados en la tabla 2.1.**
 
