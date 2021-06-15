@@ -105,7 +105,11 @@ Para resolver el siguiente problema aplicaremos los siguientes pasos:
 
 **2.5.1. Implemente el circuito que se presenta en la figura 2.1.**
 
+![image](https://user-images.githubusercontent.com/84430867/121978207-4fcddf00-cd4d-11eb-9926-5948b1d8a240.png)
+
 **2.5.2. Mida cada una de las corrientes de malla y anote los resultados en la tabla 2.1.**
+
+![image](https://user-images.githubusercontent.com/84430867/121978138-2f058980-cd4d-11eb-95c1-b337528b2f7f.png)
 
 **2.5.3. Simule en el software Multisim, Proteus, o cualquier otro simulador, el circuito de la figura 2.1, obteniendo los valores de las corrientes de malla. Anote los resultados en la tabla 2.1.**
 
@@ -142,12 +146,16 @@ Para resolver el siguiente problema aplicaremos los siguientes pasos:
 
 **2.5.4. Compare los valores de la tabla 2.1 y realice sus conclusiones.**
 
+<div align="center">
+
 |  **MALLA** | **Resultados Analíticos** | **Resulttados Simulados** |     
 |    :---:   |           :---:           |         :---:             |
 |     1      |           11.4            |           11.5            |
 |     2      |           2.84            |           2.85            |
 |     3      |           0.84            |           488             |
 
+     </div>
+     
 # 5 VIDEO 
 
 # 6 CONCLUSIONES 
