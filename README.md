@@ -205,3 +205,9 @@ https://www.youtube.com/watch?v=bWv1DQgBUAk
 
 # 7 BIBLIOGRAFÍA
 
+ANÁLISIS DE NODOS Y MALLAS. (s.f.). Obtenido de http://wwwprof.uniandes.edu.co/~ant-sala/cursos/FDC/Contenidos/03_Analisis_por_Nodos_y_Mallas.pdf
+
+Logotipo hetpro. (s.f.). Obtenido de Ley de Kircchoff:Análisis de Malla: https://hetpro-store.com/TUTORIALES/ley-de-kirchhoff-analisis-de-mallas/
+
+McAllister, W. (s.f.). El método de la corriente de malla. Obtenido de https://es.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-dc-circuit-analysis/a/ee-mesh-current-method
+
