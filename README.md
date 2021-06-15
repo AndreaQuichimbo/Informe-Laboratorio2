@@ -189,12 +189,19 @@ Para resolver el siguiente problema aplicaremos los siguientes pasos:
 |    :---:   |           :---:           |         :---:             |
 |     1      |           11.4 mA         |           11.5 mA         |
 |     2      |           2.84 mA         |           2.85 mA         |
-|     3      |           0.84 mA         |           488 uA          |
+|     3      |           0.48 mA         |           488 uA          |
 
 </div>
      
 # 5 VIDEO 
 
+https://www.youtube.com/watch?v=bWv1DQgBUAk
+
 # 6 CONCLUSIONES 
 
+- Se logró verificar con éxito el análisis de mallas del circuito con la ayuda del simulador, ya  que con los valores calculados y también al realizar la simulación, se   puede concluir que los datos  medidos comparados con los datos obtenidos de la práctica tienen menor margen de error.
+
+- El  método de análisis de mallas y nodos nos permite ver de manera sencilla  el comportamiento de la corriente y voltaje dentro de un circuito siempre y cuando las ecuaciones estén bien planteadas
+
 # 7 BIBLIOGRAFÍA
+
