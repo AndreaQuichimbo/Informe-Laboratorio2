@@ -100,7 +100,7 @@ Para resolver el siguiente problema aplicaremos los siguientes pasos:
 
 ![m1](https://user-images.githubusercontent.com/84587172/121821846-4404ee80-cc61-11eb-9939-02e2406dd514.png)
 
-![m3](https://user-images.githubusercontent.com/84587172/121821861-5e3ecc80-cc61-11eb-9680-2766ee24b4be.png)
+![2](https://user-images.githubusercontent.com/84587172/121977908-a555bc00-cd4c-11eb-9b63-c4c4fa941ade.png)
 
 
 **2.5.1. Implemente el circuito que se presenta en la figura 2.1.**
