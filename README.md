@@ -194,16 +194,6 @@ Para resolver el siguiente problema aplicaremos los siguientes pasos:
 
 **2.5.4. Compare los valores de la tabla 2.1 y realice sus conclusiones.**
 
-**Calculo del Error**
-
-<div align="center">
-
-![error1](https://user-images.githubusercontent.com/84587172/121970431-26f11e00-cd3c-11eb-8ea1-31a954b2ab81.png)
-
-</div>
-
-**2.5.4. Compare los valores de la tabla 2.1 y realice sus conclusiones.**
-
 <div align="center">
 
 |  **MALLA** | **Resultados Analíticos** | **Resulttados Simulados** |     
@@ -213,7 +203,15 @@ Para resolver el siguiente problema aplicaremos los siguientes pasos:
 |     3      |           0.48 mA         |           488 uA          |
 
 </div>
-     
+
+**Calculo del Error**
+
+<div align="center">
+
+![error1](https://user-images.githubusercontent.com/84587172/121970431-26f11e00-cd3c-11eb-8ea1-31a954b2ab81.png)
+
+</div>
+
 # 5 VIDEO 
 
 https://www.youtube.com/watch?v=bWv1DQgBUAk
