@@ -22,6 +22,8 @@ INGENIERO
 
 Ing. Darwin Omar Alulema Flores
 
+</div>
+
 # 1 OBJETIVOS
 
 Calcular cada corriente presente en el circuito mostrado mediante el método de análisis de mallas
