@@ -98,10 +98,13 @@ Para resolver el siguiente problema aplicaremos los siguientes pasos:
 
 •	Finalmente calcularemos el valor de cada corriente presente en las mallas mediante la ley de voltajes de Kirchhoff con el fin de obtener las ecuaciones necesarias
 
+<div align="center">
+     
 ![M1](https://user-images.githubusercontent.com/84587172/121978046-fb2a6400-cd4c-11eb-9832-125a75f67596.png)
 
 ![M2](https://user-images.githubusercontent.com/84587172/121978051-fe255480-cd4c-11eb-8edc-ae9b3db9561f.png)
 
+</div>
 
 **2.5.1. Implemente el circuito que se presenta en la figura 2.1.**
 
@@ -115,7 +118,11 @@ Para resolver el siguiente problema aplicaremos los siguientes pasos:
 
 - Armando el circuito que se muestra en la figura 2.1
 
+<div align="center">
+     
 ![image](https://user-images.githubusercontent.com/84587293/121962587-8e07d600-cd2e-11eb-8143-c8d3426778ff.png)
+
+</div>
 
 - Seleccionamos los materiales para proceder armar el circuito.	
 
@@ -123,12 +130,20 @@ Para resolver el siguiente problema aplicaremos los siguientes pasos:
 
 - Colocamos las resistencias al Protoboard siguiendo el diagrama espermático dado.
 
+<div align="center">
+     
 ![2021-06-14 15_13_36-Circuit design Terrific Crift-Bigery _ Tinkercad](https://user-images.githubusercontent.com/84587293/121962879-f060d680-cd2e-11eb-9b4f-1c550b53e5e3.png)
+
+</div>
 
 - Interconectamos las resistencias en el Protoboard siguiendo el circuito dado.
 
+<div align="center">
+          
 ![2021-06-14 15_27_31-Circuit design Terrific Crift-Bigery _ Tinkercad](https://user-images.githubusercontent.com/84587293/121962926-053d6a00-cd2f-11eb-938a-bb5c20cbc905.png)
 
+</div>
+     
 - Conectamos el Protoboard a la fuente de alimentación (rojo+,negro -)e iniciamos la simulación con el circuito terminado.
 
 ![2021-06-14 16_11_59-Circuit design Terrific Crift-Bigery _ Tinkercad](https://user-images.githubusercontent.com/84587293/121962959-125a5900-cd2f-11eb-97fe-4d7bf6563829.png)
@@ -150,11 +165,11 @@ Para resolver el siguiente problema aplicaremos los siguientes pasos:
 
 |  **MALLA** | **Resultados Analíticos** | **Resulttados Simulados** |     
 |    :---:   |           :---:           |         :---:             |
-|     1      |           11.4            |           11.5            |
-|     2      |           2.84            |           2.85            |
-|     3      |           0.84            |           488             |
+|     1      |           11.4 mA         |           11.5 mA         |
+|     2      |           2.84 mA         |           2.85 mA         |
+|     3      |           0.84 mA         |           488 uA          |
 
-     </div>
+</div>
      
 # 5 VIDEO 
 
